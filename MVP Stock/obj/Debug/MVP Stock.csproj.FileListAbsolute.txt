@@ -1,0 +1,1 @@
+Z:\Projects\Windows_C#\Internet_usage\MVP Stock\MVP Stock\bin\Debug\MVP Stock.exe.config
